@@ -1,0 +1,10 @@
+git init - this command is used to turn a directory into an empty git repository
+git config - this command is used to configure various settings such as username and email etc.
+git remote - this command is used to connect a local repository to a remote repository.
+git rm - this command is used to remove files from staging area.
+git stash - this command is used to save changes made when they are not in a state to commit them to a repository.
+git pull - this command is used to get the latest version of a repository.
+git status - this command provides the current status of the repository.
+git fetch - this command will get all the updates from the remote repository.
+git diff - this command is used to see the unstages changes in the current branch.
+git checkout - this command is used to go to a different branch
