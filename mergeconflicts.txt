@@ -1,0 +1,3 @@
+Merge Conflict - A merge conflict is a situation when GIT is unable yo automatically resolve the differences in code  between two commits. Merge conflict might occur while merging two branches.Conflicts generally arises when two people have changes the same lines in a file or one developer has deleted a file while other was modifying it.
+
+Soving Merge conflicts - To resolve a conflic, we can simply edit the conflicted file. Open the file in editor and remove the conflict dividers and then commit the changes. It resolved the merge conlict.
