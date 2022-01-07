@@ -1,0 +1,36 @@
+commit 7f0100514e03655d5eb0edb0de07fe261e10dfe5
+Author: Abhilash Singh <abhilashsingh326@gmail.com>
+Date:   Fri Jan 7 09:27:22 2022 +0530
+
+    Committing mergeconflict.txt in main
+
+commit 8964bf68079c2a356421be69357e71b7fd8ca162
+Merge: ec98e8f d3ea9f6
+Author: Abhilash Singh <abhilashsingh326@gmail.com>
+Date:   Fri Jan 7 09:20:27 2022 +0530
+
+    Resolving merge conflicts
+
+commit ec98e8f1636055c18925ffc911974309997601d4
+Author: Abhilash Singh <abhilashsingh326@gmail.com>
+Date:   Fri Jan 7 09:18:10 2022 +0530
+
+    committing changes in readme in main branch
+
+commit d3ea9f67cdb85cb452596d50d4f6cc462ebdc246
+Author: Abhilash Singh <abhilashsingh326@gmail.com>
+Date:   Fri Jan 7 09:15:57 2022 +0530
+
+    Committing readme file in new branch
+
+commit db578e33ef5a5d6e87d2d6ad1a568930c029375b
+Author: Abhilash Singh <abhilashsingh326@gmail.com>
+Date:   Fri Jan 7 09:13:33 2022 +0530
+
+    Committing gitcommands.txt
+
+commit 84d38b4625e3c648eeaf1bbdc9fd542fa954fdb0
+Author: SHANOOR AHMED <76896805+shanoorahmed@users.noreply.github.com>
+Date:   Mon Jan 3 00:41:26 2022 +0530
+
+    Initial commit
